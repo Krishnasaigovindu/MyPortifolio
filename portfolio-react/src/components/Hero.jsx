@@ -38,7 +38,7 @@ const Hero = () => {
                     <a href="#contact" className="btn secondary">Contact Me</a>
                 </motion.div>
                 <div className="social-icons">
-                    <a href="https://linkedin.com/in/krishna-sai" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+                    <a href="https://www.linkedin.com/in/krishna-sai-govindu-9b34b1252/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
                     <a href="https://github.com/Krishnasaigovindu" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
                     <a href="mailto:krishnasaigovindu789@gmail.com"><FaEnvelope /></a>
                 </div>
