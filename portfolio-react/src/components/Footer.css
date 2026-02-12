@@ -1,0 +1,4 @@
+/* Footer styles are shared in Contact.css or Global, but specific overrides here */
+.footer {
+    margin-top: auto;
+}
